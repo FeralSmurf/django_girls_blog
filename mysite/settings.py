@@ -27,8 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'feralsmurf.pythonanywhere.com',
-    'pythonanywhere.com'
-] 
+    ]
 
 
 # Application definition
