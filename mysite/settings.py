@@ -26,8 +26,14 @@ SECRET_KEY = 'django-insecure-60#jlf^crchm)$dd5*x+dj0d=0n0k_hrre2a=mk^o)we6#7@8r
 DEBUG = True
 
 ALLOWED_HOSTS = [
+<<<<<<< HEAD
     'feralsmurf.pythonanywhere.com',
     ]
+=======
+    '*'
+    
+] 
+>>>>>>> 0dfcefcc3618566c5c9f069e7c677e53f5c0a836
 
 
 # Application definition
